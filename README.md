@@ -7,5 +7,5 @@
 
 ## Bering Sea
 
-** repo 3
-** repo 4
+* repo 3
+* repo 4
